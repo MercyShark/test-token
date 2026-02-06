@@ -1,0 +1,12 @@
+{
+  "name": "Rishabh Token",
+  "symbol": "RBT",
+  "description": "My first Solana Token-2022",
+  "image": "https://raw.githubusercontent.com/yourusername/repo/main/token.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
