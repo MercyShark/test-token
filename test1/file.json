@@ -1,8 +1,8 @@
 {
   "name": "Rishabh Token",
-  "symbol": "RBT",
+  "symbol": "Meow",
   "description": "My first Solana Token-2022",
-  "image": "https://raw.githubusercontent.com/yourusername/repo/main/token.png",
+  "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/test1/cat.png",
   "attributes": [
     {
       "trait_type": "Category",
