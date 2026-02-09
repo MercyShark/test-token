@@ -1,7 +1,7 @@
 {
-  "name": "Rishabh Token",
-  "symbol": "Meow",
-  "description": "My first Solana Token-2022",
+  "name": "Dondu Coin",
+  "symbol": "DC",
+  "description": "Creating an Dondu Token",
   "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/test1/cat.gif",
   "attributes": [
     {
