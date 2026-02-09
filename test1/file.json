@@ -2,7 +2,7 @@
   "name": "Rishabh Token",
   "symbol": "Meow",
   "description": "My first Solana Token-2022",
-  "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/test1/cat.png",
+  "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/test1/cat.gif",
   "attributes": [
     {
       "trait_type": "Category",
