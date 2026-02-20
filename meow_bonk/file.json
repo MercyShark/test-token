@@ -1,0 +1,12 @@
+{
+  "name": "Meow USDC COIN",
+  "symbol": "MU",
+  "description": "MEOW USDC COIN",
+  "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/test1/cat.gif",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
