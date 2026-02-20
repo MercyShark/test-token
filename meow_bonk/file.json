@@ -1,7 +1,7 @@
 {
-  "name": "Meow USDC COIN",
-  "symbol": "MU",
-  "description": "MEOW USDC COIN",
+  "name": "Meow BONK COIN",
+  "symbol": "MB",
+  "description": "MEOW BONK COIN",
   "image": "https://raw.githubusercontent.com/MercyShark/test-token/refs/heads/main/meow_bonk/meow_bonk.jpeg",
   "attributes": [
     {
